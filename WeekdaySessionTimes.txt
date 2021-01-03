@@ -1,0 +1,7 @@
+WEEKDAYS:
+
+12 pm - 2 pm
+2 pm - 4 pm
+4 pm - 6 pm
+6 pm - 8 pm
+8 pm - 10 pm
